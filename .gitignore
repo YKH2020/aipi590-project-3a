@@ -1,6 +1,7 @@
 # Folders
 /.venv/*
 /wiki_crop/*
+/output/*
 
 # GZ File
 wiki_crop.tar
