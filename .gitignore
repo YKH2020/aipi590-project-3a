@@ -2,6 +2,8 @@
 /.venv/*
 /wiki_crop/*
 /output/*
+/generated_images/*
+/real_images/*
 
 # GZ File
 wiki_crop.tar
